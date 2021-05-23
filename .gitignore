@@ -5,7 +5,7 @@
 !/install/.keep
 
 /doc/*
-!/doc/Doxyfile
+!/doc/.keep
 
 /gsl
 
